@@ -1,14 +1,14 @@
 # Postify
 
-A simple RESTful CRUD web application built using Node.js and Express.js.
+Postify is a simple RESTful CRUD web application built using Node.js and Express.js.
 
 ## Features
 
-- Create posts
-- View posts
+- Create a new post
+- View all posts
+- View individual posts
 - Edit posts
 - Delete posts
-- View individual posts
 
 ## Tech Stack
 
@@ -17,3 +17,8 @@ A simple RESTful CRUD web application built using Node.js and Express.js.
 - EJS
 - HTML
 - CSS
+- REST API
+
+## Learning
+
+I built this project while learning Node.js and Express.js as part of the Apna College Delta Web Development course.
